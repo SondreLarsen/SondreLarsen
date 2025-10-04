@@ -1,5 +1,5 @@
 ## 📢About me
-I come from Norway(emoji) I have been coding since about 2023 where i have been doing mostly python, html, and css. In my free time(outside of programming) I play handball on my local team since 2018, I play guitar which i have been doing since 2019, I am really into STEM like science and math and stuff so sometimes I like to test myself on complex math equasions, I also have a homelab where i just play with some old computers i found.
+I come from Norway(emoji) I have been coding since about 2023 where i have been doing mostly python, html, and css. In my free time(outside of programming) I play handball on my local team since 2018🤾‍♂️, I play guitar which i have been doing since 2019🎸, I am really into STEM like science and math and stuff so sometimes I like to test myself on complex math equasions or research a branch in physics I am not to familiar with or sometimes a completly new one💡, I also have a homelab where i just play with some old computers I found💻.
 
 ## 🗣Languages
 I am fluent in both norwegian and english, and I am currently learning spanish in school. Earlier I have learned a teeny tiny bit of japanese by the green owl🦉
