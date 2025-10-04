@@ -11,6 +11,6 @@ I started learning python in 2023 where i mostly played with the turtle libraryð
 After coding for a while I got interested in how computers work so I got into homelabbing. My homelab started as a pc I found on facebook marketplace which I turned into a NAS by switching the OS to ubuntu server and installing a few HDDs into it. I eventually built further on it by finding a few old laptops in my basement and turning the newest one into a media server using jellyfin, I used one of the older ones with a dvd player to get the media files from a dvd collection my family has.
 
 ## ðŸ“žConnect with Me!
-Wanna connect with me you can:                                                                                                                                                          
+Wanna connect with me? You can!                                                                                                                                                         
 On [linkedIn](https://www.linkedin.com/in/sondre-bech-larsen-836582388/)                                                                               
 Or contact me at sondrebechlarsen@gmail.com
